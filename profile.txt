@@ -1,0 +1,3 @@
+name: Jindapol Kohkarnue
+nickname: Paint
+age: 20
